@@ -17,15 +17,10 @@ Ouvrir le projet avec un serveur local ou avec une extension ("live server" dans
 ## Licence
 
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the CCA 3.0 license [Html5](html5up.net/license)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
