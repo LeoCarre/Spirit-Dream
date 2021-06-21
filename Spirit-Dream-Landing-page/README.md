@@ -8,10 +8,10 @@ Utilisez la page github [Spirit Dream](https://github.com/LeoCarre/Spirit-Dream)
 git clone le repo ou télécharger les fichiés zippés. 
 ```
 ```bash
-Ouvrez le projet avec un éditeur de text.
+Ouvrir le projet avec un éditeur de text.
 ```
 ```bash
-Ouvrez le projet avec un serveur local ou avec une extension ("live server" dans Vs code)
+Ouvrir le projet avec un serveur local ou avec une extension ("live server" dans Vs code)
 ```
 
 ## Licence
