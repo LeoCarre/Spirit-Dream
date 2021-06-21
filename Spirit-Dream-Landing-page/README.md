@@ -1,8 +1,8 @@
-#Spirit Dream Landing page
+# Spirit Dream Landing page
 Spirit Dream Landing page est une landing page dont le but est d'accueillir des visiteurs pour pouvoir les faire acheter des Tickets 
 et e-Tickets pour le Festival en plus de les renseigner sur celui-ci.
 
-##Installation
+## Installation
 Utilisez la page github [Spirit Dream](https://github.com/LeoCarre/Spirit-Dream) pour l'installer.
 ```bash
 git clone le repo ou télécharger les fichiés zippés. 
@@ -14,7 +14,7 @@ Ouvrez le projet avec un éditeur de text.
 Ouvrez le projet avec un serveur local ou avec une extension ("live server" dans Vs code)
 ```
 
-##Licence
+## Licence
 
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
